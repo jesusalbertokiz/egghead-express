@@ -1,0 +1,15 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "description": "server example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.0-beta.1"
+  }
+}
